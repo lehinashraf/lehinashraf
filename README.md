@@ -12,7 +12,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lehinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="lehinashraf" />
-   <a href="https://twitter.com/sreeraglp"><img src="https://img.shields.io/twitter/follow/sreeraglp?style=social"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/AshrafLehin"><img src="https://img.shields.io/twitter/follow/AshrafLehin?style=social"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sree-rag-p"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>&nbsp;&nbsp;
 </p>
 
@@ -85,7 +85,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraglp&" alt="sreeraglp" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lehinashraf&" alt="sreeraglp" />
   
 </p>
 
