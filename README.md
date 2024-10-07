@@ -17,12 +17,12 @@
 </p>
 
 
-- 🌱 I’m currently working on *MERN Stack*
+- 🌱 I’m currently learning *MERN Stack*
 - 👨‍💻 Check out my portfolio: [Portfolio]
 - 📄 View my resume: [Resume]
 -  🌟 Always excited to collaborate on new projects and ideas!
 - 📫 How to reach me: *iamlennuz@gmail.com*
-- 🎨 Hobbies: Drawing, football, exploring movies,<br> listening to music, and asking life question to AI.
+- 🎨 Hobbies: Drawing, football, exploring movies,<br> listening to music, and asking life questions to AI.
 
 
 
@@ -103,7 +103,7 @@
   <a href="https://x.com/AshrafLehin"><img src="https://img.shields.io/twitter/follow/AshrafLehin?style=social"></a>&nbsp;&nbsp;
 
   <br><br>
-  <p>⚡ Fun fact: My Mathematics backgroud has an edge for problem solving.</p>
+  <p>⚡ Fun fact: My Mathematics background has an edge for problem solving.</p>
   <p>📫 Contact me via email: <a href="mailto:iamlennuz@gmail.com">iamlennuz@gmail.com</a></p>
   <br>
 
