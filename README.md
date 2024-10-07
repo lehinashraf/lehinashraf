@@ -11,9 +11,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lehinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="lehinashraf" />
    <a href="https://twitter.com/AshrafLehin"><img src="https://img.shields.io/twitter/follow/AshrafLehin?style=social"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sree-rag-p"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>&nbsp;&nbsp;
 </p>
 
 
